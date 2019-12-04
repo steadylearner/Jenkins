@@ -10,6 +10,8 @@ The speed of the processes depens on which machine it uses. I would use the serv
 
 Create pipeline from UI takes so much time. I would build Jenkinsfile and use git CLI Instead also.
 
+Its payload is Jenkinsfile with [the pipeline API](https://jenkins.io/doc/book/pipeline/syntax/) and shell commands to help it.
+
 ## Workflow
 
 1. Install it with Docker and make volumes and link paths and login.
