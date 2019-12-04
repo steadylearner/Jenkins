@@ -6,6 +6,10 @@ Refer to these official documenations and the blog post for Docker commands.
 2. [Create a Pipeline in Blue Ocean](https://jenkins.io/doc/tutorials/create-a-pipeline-in-blue-ocean/)
 3. [How to use Docker commands](https://www.steadylearner.com/blog/read/How-to-use-Docker-commands)
 
+The speed of the processes depens on which machine it uses. I would use the server and servies from the Travis CI instead of Jenkins.
+
+Create pipeline from UI takes so much time. I would build Jenkinsfile and use git CLI Instead also.
+
 ## Workflow
 
 1. Install it with Docker and make volumes and link paths and login.
